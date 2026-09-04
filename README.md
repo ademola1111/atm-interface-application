@@ -4,13 +4,21 @@ A simple console-based ATM Interface Application developed in C. The project sim
 
 ##Features:
 Create a 4-digit PIN
+
 PIN authentication
+
 Check account balance
+
 Deposit money
+
 Withdraw money
+
 Transfer money
+
 Change PIN
+
 Input validation for PIN and transaction amounts
+
 Continuous ATM menu until the user chooses to exit
 
 ##Technologies Used:
